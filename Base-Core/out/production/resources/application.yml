@@ -1,0 +1,9 @@
+server:
+  port: 7000
+management:
+  security:
+    enabled: false
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka/
