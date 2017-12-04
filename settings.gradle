@@ -1,4 +1,5 @@
 include 'Base-Core'
 include 'Eureka-Server'
 include 'Ribbon-Consumer'
+include 'Jave-Base'
 
